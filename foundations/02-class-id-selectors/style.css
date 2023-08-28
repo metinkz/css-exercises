@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(255, 194, 204);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#sec_el {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.font-24{
+    font-size: 24px;
+}
+
+#frth_el {
+    background-color: rgb(144, 238, 144);
+    font-weight: bold;
+}
